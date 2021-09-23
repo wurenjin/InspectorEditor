@@ -1,0 +1,11 @@
+/build
+/Library
+/Logs
+/obj
+/ServerData
+/Temp
+.vs
+*.sln
+*.csproj*
+/.vscode
+~$*.docx
